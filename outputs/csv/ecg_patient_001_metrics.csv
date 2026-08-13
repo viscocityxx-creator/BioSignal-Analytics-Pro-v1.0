@@ -1,0 +1,2 @@
+filename,samples,sampling_frequency_hz,duration_s,detected_beats,average_bpm,minimum_bpm,maximum_bpm,mean_rr_s,sdnn_ms,rmssd_ms,dominant_frequency_hz,signal_quality_rating,quality_issues
+ecg_patient_001.csv,2500,249.99999999999977,9.996,12,72.51687525340962,70.42253521126759,74.25742574257411,0.8276363636363636,14.90820396474846,18.63330351816303,3.5999999999999965,Acceptable,

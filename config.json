@@ -1,0 +1,12 @@
+{
+  "moving_average_window": 7,
+  "lowpass_cutoff_hz": 18.0,
+  "highpass_cutoff_hz": 0.5,
+  "peak_min_distance_seconds": 0.45,
+  "peak_prominence_factor": 0.55,
+  "signal_quality": {
+    "min_bpm": 35,
+    "max_bpm": 220,
+    "max_missing_fraction": 0.01
+  }
+}
